@@ -34,9 +34,9 @@ Prérequis
 
 Versions utilisées
 ------------------
-Windows ADK : 10.1.26100.2454
-Windows PE  : 10.0.26100.1
-Ghost       : 12.0.0.11761
+- Windows ADK : 10.1.26100.2454
+- Windows PE  : 10.0.26100.1
+- Ghost       : 12.0.0.11761
 
 Personnalisation
 ----------------
