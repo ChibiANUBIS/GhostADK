@@ -20,20 +20,7 @@ Fonctionnalités
 
 Arborescence
 ------------
-GhostADK
-│
 
-├─ Build-WinPE-Ghost.bat
-
-├─ WinPE_Ghost_FR.iso
-
-└─ Ghost
-
-    ├─ Ghost64.exe
-    
-    ├─ *.dll
-    
-    └─ fichiers Ghost
 
 Prérequis
 ----------
