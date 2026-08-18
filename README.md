@@ -1,4 +1,9 @@
+=================================================
+WinPE Ghost FR
+=================================================
+
 Version : 1.0
+Date : 16/08/2026
 
 Fonctionnalités
 ---------------
@@ -54,6 +59,5 @@ Résultats :
 
 Historique
 ----------
-
 16/08/2026
 - Création du script automatisé de génération WinPE Ghost.
