@@ -1,5 +1,3 @@
-# WinPE-Ghost-FR
-
 Version : 1.0
 
 Fonctionnalités
