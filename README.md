@@ -16,17 +16,16 @@ Fonctionnalités
 
 Arborescence
 ------------
-mon-projet/
-├── .github/
-│   └── workflows/
-│       └── ci.yml
-├── src/
-│   ├── index.js
-│   └── styles.css
-├── package.json
-└── README.md
-
-
+```
+GhostADK
+│
+├─ Build-WinPE-Ghost.bat
+├─ WinPE_Ghost_FR.iso
+└─ Ghost
+    ├─ Ghost64.exe
+    ├─ *.dll
+    └─ fichiers Ghost
+```
 Prérequis
 ----------
 - Exécuter le script en Administrateur
