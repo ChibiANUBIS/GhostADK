@@ -2,10 +2,6 @@
 
 Version : 1.0
 
-Description
------------
-Script de génération automatique d'un WinPE x64 avec Ghost intégré et clavier français.
-
 Fonctionnalités
 ---------------
 - Détection automatique de l'ADK
@@ -20,6 +16,15 @@ Fonctionnalités
 
 Arborescence
 ------------
+mon-projet/
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+├── src/
+│   ├── index.js
+│   └── styles.css
+├── package.json
+└── README.md
 
 
 Prérequis
