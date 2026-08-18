@@ -61,8 +61,6 @@ Résultats :
 
 Historique
 ----------
-16/08/2026
-- Création du script automatisé de génération WinPE Ghost.
-----------
+
 16/08/2026
 - Création du script automatisé de génération WinPE Ghost.
