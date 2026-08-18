@@ -1,7 +1,7 @@
 # WinPE Ghost FR
 
-Version : 1.0
-Date : 16/08/2026
+- Version : 1.0
+- Date : 16/08/2026
 
 Fonctionnalités
 ---------------
